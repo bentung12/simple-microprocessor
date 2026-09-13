@@ -1,6 +1,6 @@
 # 12-Bit Microprocessor
 
-A CPU with acustom instruction set, in SystemVerilog on a Terasic DE0-CV.
+A CPU with a custom instruction set, in SystemVerilog on a Terasic DE0-CV.
 
 **Stack:** SystemVerilog · Cyclone V (DE0-CV) · Quartus Prime 22.1
 
